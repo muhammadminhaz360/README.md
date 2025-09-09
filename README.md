@@ -6,7 +6,4 @@ Autumn - 25
 Software Development 1
 <br>
 3CM
-<br>
-Tools & Technologies for Internet Programming
-<br>
-5DM
+
